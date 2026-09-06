@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering undergraduate with hands-on experience in backend development, ML applications, and cloud services.
+Computer Engineering undergraduate (2027) with hands-on experience in software and application development, REST APIs, backend development, and database management. Built web and mobile applications using Node.js, Flask, JavaScript, Flutter, Firebase, and SQL through academic, internship, and personal projects. Strong foundation in programming, Data Structures & Algorithms, Object-Oriented Programming, and software development fundamentals, with a keen interest in developing reliable and scalable software solutions. 
 
 
 ## 🌐 Socials:
