@@ -97,8 +97,8 @@ Flask-based web application to predict diabetes risk using user-provided health 
 <div align="center">
   
 ### 📈 Repository Stats
-![GitHub Repos](https://img.shields.io/badge/Repositories-17-181717?style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/badge/Stars-10-181717?style=for-the-badge&logo=github)
+![GitHub Repos](https://img.shields.io/badge/Repositories-5-181717?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/badge/Stars-0-181717?style=for-the-badge&logo=github)
 
 ### 📂 Top Languages (from GitHub API)
 <!-- These are dynamic shields that work without external services -->
